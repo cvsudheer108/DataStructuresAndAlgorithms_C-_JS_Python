@@ -1,0 +1,52 @@
+# DS & Algo - JS, Python & C#<br/>
+Here I am listing a set of popular DS & Algo problem and cource code is provided in multiple languages under respective folders.
+
+<br/>
+## TOOLS:
+- You can use online IDEs like repl.it OR ideone.com, but there you lack Intellisense & IDE debugging capability
+- I am using VS Code for coding in all these languages
+    - JS
+        - install node & npm
+        - Open a new termianl that contains the js file and run the module
+        - Run : >node fizzBuzz.js
+    - Python
+        - install python3
+        - Open a new termianl that contains the js file and run the module
+        - Run : >python fizzBuzz.py
+    - For C#, you need to install .net core SDK ( I use 3.1)
+    - Create Project : Open the terminal on the new folder and:
+        - >dontnet new console
+        - >dotnet restore
+        - >dontnet run, after finishing code
+        - TO debug, click F5 and VVCode will create the required consigurations to debug a .netCore project in : launch.jsom
+<br/>
+<br/>
+Check NOTES in each file for unique insights related to that language.
+<br/>
+<br/>
+## 0. CommonTasks
+    - Read/write from file
+    - Many times, these logic are par of the algo code
+    - Read from file - input.txt and write to file: output.txt
+    - input.txt has one int per line
+    - Write number to outfile, if the input line is a valid number
+
+### 1. FizzBuzz<br/>
+NOTES:<br/>
+    - Task : Print number from 1 to n
+        - If divisible by 3: print Fizz, if by 5 : Buzz, by both : FizzBuzz
+    - Clarifications - 
+    - Design - Use a loop and modulus operator
+    - Coding-
+    - Testing- 
+    - Analysis:
+        - RunTime Complexity : How does the program run time change as the inout changes - O(n) since we have to loop through each iteam and operate on it.
+
+### 2. Ransom Note<br/>
+NOTES:<br/>
+    - Clarifications - 
+    - Design - Use a loop and modulus operator
+    - Coding-
+    - Testing- 
+    - Analysis:
+        - RunTime Complexity :
