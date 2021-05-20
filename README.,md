@@ -1,7 +1,7 @@
-# DS & Algo - JS, Python & C#<br/>
+# DS & Algo - JS, Python & C#
 Here I am listing a set of popular DS & Algo problem and cource code is provided in multiple languages under respective folders.
 
-<br/>
+
 ## TOOLS:
 - You can use online IDEs like repl.it OR ideone.com, but there you lack Intellisense & IDE debugging capability
 - I am using VS Code for coding in all these languages
@@ -19,11 +19,10 @@ Here I am listing a set of popular DS & Algo problem and cource code is provided
         - >dotnet restore
         - >dontnet run, after finishing code
         - TO debug, click F5 and VVCode will create the required consigurations to debug a .netCore project in : launch.jsom
-<br/>
-<br/>
-Check NOTES in each file for unique insights related to that language.
-<br/>
-<br/>
+
+
+Check NOTES at eht top of each file for unique insights related to that language.
+
 ## 0. CommonTasks
     - Read/write from file
     - Many times, these logic are par of the algo code
